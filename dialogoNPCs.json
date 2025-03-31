@@ -2,10 +2,10 @@
   "c2array": true,
   "size": [5, 1, 2],
   "data": [
-    [["Hola viajero, bienvenido a nuestra aldea.", "Anciano"]],
-    [["Necesitamos tu ayuda para recuperar la gema sagrada.", "Anciano"]],
-    [["Se encuentra en la cueva oscura al otro lado del bosque.", "Guardián"]],
-    [["Pero cuidado, está protegida por una criatura legendaria.", "Guardián"]],
-    [["Confío en ti, toma esta espada para tu viaje.", "Anciano"]]
+    [["Bienvenido, joven aventurero. Este es el comienzo de tu viaje.", "Narrador"]],
+    [["Tu misión es superar la prueba en la Fortaleza del Norte.", "Sabio"]],
+    [["En lo profundo de la fortaleza se encuentra la llave que abre el portal.", "Sabio"]],
+    [["Pero cuidado, en su interior hay trampas y criaturas oscuras que te vigilan.", "Sabio"]],
+    [["Recibe este escudo como protección. Tu destino está en tus manos.", "Sabio"]]
   ]
 }
