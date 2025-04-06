@@ -1,11 +1,12 @@
 {
   "c2array": true,
-  "size": [5, 1, 2],
+  "size": [6, 1, 2],
   "data": [
     [["¡Ah, Megaman! Llegas justo a tiempo para ser parte de mi última creación.", "Dr. Wily"]],
     [["Tu lucha no será como las anteriores. He preparado algo especial para ti, algo que nunca olvidarás.", "Dr. Wily"]],
     [["¿Qué es eso, Wily? ¿Acaso crees que tus drones infectados con ese virus pueden detenerme?", "Megaman"]],
     [["¡Ja! Es más de lo que puedes manejar. Este dron es el resultado de años de perfeccionamiento. ¡La viscosidad de este virus te paralizará!", "Dr. Wily"]],
-    [["Entonces, prepárate para lo inesperado. ¡Te detendré, Wily, no importa lo que hayas creado!", "Megaman"]]
+    [["Entonces, prepárate para lo inesperado. ¡Te detendré, Wily, no importa lo que hayas creado!", "Megaman"]],
+    [[" ", "Megaman"]]
   ]
 }
